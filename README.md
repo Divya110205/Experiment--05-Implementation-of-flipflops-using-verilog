@@ -205,7 +205,7 @@ endmodule
 ![d td](https://github.com/Divya110205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119404855/258d48ff-cb41-479a-b22f-66f538c8470a)
 
 ### T
-![t rtl](https://github.com/Divya110205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119404855/48ae7b57-feb4-410f-8d20-acbc3b0e956c)
+![t td](https://github.com/Divya110205/Experiment--05-Implementation-of-flipflops-using-verilog/assets/119404855/cac7767b-3951-449c-88d3-42b56e177d58)
 
 ### RESULTS 
 
